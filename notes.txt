@@ -1,0 +1,1 @@
+the git staging area is useful because it allows us to select and review changes before committing them 
